@@ -48,7 +48,7 @@ let score = 0
 loadQuiz()
 
 function loadQuiz() {
-    deselectAnswers()
+   
 
     const currentQuizData = quizData[currentQuiz]
 
